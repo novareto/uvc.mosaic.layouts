@@ -4,9 +4,9 @@ from setuptools import setup, find_packages
 version = '0.1dev'
 
 long_description = (
-    open('README.rst').read()
+    open('README.txt').read()
     + '\n' +
-    open('CHANGES.rst').read()
+    open('CHANGES.txt').read()
     + '\n')
 
 setup(
